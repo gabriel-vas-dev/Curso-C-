@@ -1,0 +1,15 @@
+C:\Users\Gabriel Vasconcelos\Desktop\Curso-C#\Curso-C-\11Polimorfismo\bin\Debug\net6.0\11Polimorfismo.exe
+C:\Users\Gabriel Vasconcelos\Desktop\Curso-C#\Curso-C-\11Polimorfismo\bin\Debug\net6.0\11Polimorfismo.deps.json
+C:\Users\Gabriel Vasconcelos\Desktop\Curso-C#\Curso-C-\11Polimorfismo\bin\Debug\net6.0\11Polimorfismo.runtimeconfig.json
+C:\Users\Gabriel Vasconcelos\Desktop\Curso-C#\Curso-C-\11Polimorfismo\bin\Debug\net6.0\11Polimorfismo.dll
+C:\Users\Gabriel Vasconcelos\Desktop\Curso-C#\Curso-C-\11Polimorfismo\bin\Debug\net6.0\11Polimorfismo.pdb
+C:\Users\Gabriel Vasconcelos\Desktop\Curso-C#\Curso-C-\11Polimorfismo\obj\Debug\net6.0\11Polimorfismo.csproj.AssemblyReference.cache
+C:\Users\Gabriel Vasconcelos\Desktop\Curso-C#\Curso-C-\11Polimorfismo\obj\Debug\net6.0\11Polimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel Vasconcelos\Desktop\Curso-C#\Curso-C-\11Polimorfismo\obj\Debug\net6.0\11Polimorfismo.AssemblyInfoInputs.cache
+C:\Users\Gabriel Vasconcelos\Desktop\Curso-C#\Curso-C-\11Polimorfismo\obj\Debug\net6.0\11Polimorfismo.AssemblyInfo.cs
+C:\Users\Gabriel Vasconcelos\Desktop\Curso-C#\Curso-C-\11Polimorfismo\obj\Debug\net6.0\11Polimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel Vasconcelos\Desktop\Curso-C#\Curso-C-\11Polimorfismo\obj\Debug\net6.0\11Polimorfismo.dll
+C:\Users\Gabriel Vasconcelos\Desktop\Curso-C#\Curso-C-\11Polimorfismo\obj\Debug\net6.0\refint\11Polimorfismo.dll
+C:\Users\Gabriel Vasconcelos\Desktop\Curso-C#\Curso-C-\11Polimorfismo\obj\Debug\net6.0\11Polimorfismo.pdb
+C:\Users\Gabriel Vasconcelos\Desktop\Curso-C#\Curso-C-\11Polimorfismo\obj\Debug\net6.0\11Polimorfismo.genruntimeconfig.cache
+C:\Users\Gabriel Vasconcelos\Desktop\Curso-C#\Curso-C-\11Polimorfismo\obj\Debug\net6.0\ref\11Polimorfismo.dll
