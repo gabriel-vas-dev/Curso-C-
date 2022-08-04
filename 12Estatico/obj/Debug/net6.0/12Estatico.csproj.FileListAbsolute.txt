@@ -1,0 +1,15 @@
+C:\Users\Gabriel Vasconcelos\Desktop\Curso-C#\Curso-C-\12Estatico\bin\Debug\net6.0\12Estatico.exe
+C:\Users\Gabriel Vasconcelos\Desktop\Curso-C#\Curso-C-\12Estatico\bin\Debug\net6.0\12Estatico.deps.json
+C:\Users\Gabriel Vasconcelos\Desktop\Curso-C#\Curso-C-\12Estatico\bin\Debug\net6.0\12Estatico.runtimeconfig.json
+C:\Users\Gabriel Vasconcelos\Desktop\Curso-C#\Curso-C-\12Estatico\bin\Debug\net6.0\12Estatico.dll
+C:\Users\Gabriel Vasconcelos\Desktop\Curso-C#\Curso-C-\12Estatico\bin\Debug\net6.0\12Estatico.pdb
+C:\Users\Gabriel Vasconcelos\Desktop\Curso-C#\Curso-C-\12Estatico\obj\Debug\net6.0\12Estatico.csproj.AssemblyReference.cache
+C:\Users\Gabriel Vasconcelos\Desktop\Curso-C#\Curso-C-\12Estatico\obj\Debug\net6.0\12Estatico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel Vasconcelos\Desktop\Curso-C#\Curso-C-\12Estatico\obj\Debug\net6.0\12Estatico.AssemblyInfoInputs.cache
+C:\Users\Gabriel Vasconcelos\Desktop\Curso-C#\Curso-C-\12Estatico\obj\Debug\net6.0\12Estatico.AssemblyInfo.cs
+C:\Users\Gabriel Vasconcelos\Desktop\Curso-C#\Curso-C-\12Estatico\obj\Debug\net6.0\12Estatico.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel Vasconcelos\Desktop\Curso-C#\Curso-C-\12Estatico\obj\Debug\net6.0\12Estatico.dll
+C:\Users\Gabriel Vasconcelos\Desktop\Curso-C#\Curso-C-\12Estatico\obj\Debug\net6.0\refint\12Estatico.dll
+C:\Users\Gabriel Vasconcelos\Desktop\Curso-C#\Curso-C-\12Estatico\obj\Debug\net6.0\12Estatico.pdb
+C:\Users\Gabriel Vasconcelos\Desktop\Curso-C#\Curso-C-\12Estatico\obj\Debug\net6.0\12Estatico.genruntimeconfig.cache
+C:\Users\Gabriel Vasconcelos\Desktop\Curso-C#\Curso-C-\12Estatico\obj\Debug\net6.0\ref\12Estatico.dll
