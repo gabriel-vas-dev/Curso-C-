@@ -1,0 +1,15 @@
+C:\Users\Gabriel Vasconcelos\Desktop\PROJETOS\Estudo CU\09This\bin\Debug\net6.0\09This.exe
+C:\Users\Gabriel Vasconcelos\Desktop\PROJETOS\Estudo CU\09This\bin\Debug\net6.0\09This.deps.json
+C:\Users\Gabriel Vasconcelos\Desktop\PROJETOS\Estudo CU\09This\bin\Debug\net6.0\09This.runtimeconfig.json
+C:\Users\Gabriel Vasconcelos\Desktop\PROJETOS\Estudo CU\09This\bin\Debug\net6.0\09This.dll
+C:\Users\Gabriel Vasconcelos\Desktop\PROJETOS\Estudo CU\09This\bin\Debug\net6.0\09This.pdb
+C:\Users\Gabriel Vasconcelos\Desktop\PROJETOS\Estudo CU\09This\obj\Debug\net6.0\09This.csproj.AssemblyReference.cache
+C:\Users\Gabriel Vasconcelos\Desktop\PROJETOS\Estudo CU\09This\obj\Debug\net6.0\09This.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel Vasconcelos\Desktop\PROJETOS\Estudo CU\09This\obj\Debug\net6.0\09This.AssemblyInfoInputs.cache
+C:\Users\Gabriel Vasconcelos\Desktop\PROJETOS\Estudo CU\09This\obj\Debug\net6.0\09This.AssemblyInfo.cs
+C:\Users\Gabriel Vasconcelos\Desktop\PROJETOS\Estudo CU\09This\obj\Debug\net6.0\09This.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel Vasconcelos\Desktop\PROJETOS\Estudo CU\09This\obj\Debug\net6.0\09This.dll
+C:\Users\Gabriel Vasconcelos\Desktop\PROJETOS\Estudo CU\09This\obj\Debug\net6.0\refint\09This.dll
+C:\Users\Gabriel Vasconcelos\Desktop\PROJETOS\Estudo CU\09This\obj\Debug\net6.0\09This.pdb
+C:\Users\Gabriel Vasconcelos\Desktop\PROJETOS\Estudo CU\09This\obj\Debug\net6.0\09This.genruntimeconfig.cache
+C:\Users\Gabriel Vasconcelos\Desktop\PROJETOS\Estudo CU\09This\obj\Debug\net6.0\ref\09This.dll

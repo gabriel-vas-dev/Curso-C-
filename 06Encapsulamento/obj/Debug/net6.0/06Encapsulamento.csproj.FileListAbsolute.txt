@@ -1,0 +1,15 @@
+C:\Users\Gabriel Vasconcelos\Desktop\PROJETOS\Estudo CU\06Encapsulamento\bin\Debug\net6.0\06Encapsulamento.exe
+C:\Users\Gabriel Vasconcelos\Desktop\PROJETOS\Estudo CU\06Encapsulamento\bin\Debug\net6.0\06Encapsulamento.deps.json
+C:\Users\Gabriel Vasconcelos\Desktop\PROJETOS\Estudo CU\06Encapsulamento\bin\Debug\net6.0\06Encapsulamento.runtimeconfig.json
+C:\Users\Gabriel Vasconcelos\Desktop\PROJETOS\Estudo CU\06Encapsulamento\bin\Debug\net6.0\06Encapsulamento.dll
+C:\Users\Gabriel Vasconcelos\Desktop\PROJETOS\Estudo CU\06Encapsulamento\bin\Debug\net6.0\06Encapsulamento.pdb
+C:\Users\Gabriel Vasconcelos\Desktop\PROJETOS\Estudo CU\06Encapsulamento\obj\Debug\net6.0\06Encapsulamento.csproj.AssemblyReference.cache
+C:\Users\Gabriel Vasconcelos\Desktop\PROJETOS\Estudo CU\06Encapsulamento\obj\Debug\net6.0\06Encapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel Vasconcelos\Desktop\PROJETOS\Estudo CU\06Encapsulamento\obj\Debug\net6.0\06Encapsulamento.AssemblyInfoInputs.cache
+C:\Users\Gabriel Vasconcelos\Desktop\PROJETOS\Estudo CU\06Encapsulamento\obj\Debug\net6.0\06Encapsulamento.AssemblyInfo.cs
+C:\Users\Gabriel Vasconcelos\Desktop\PROJETOS\Estudo CU\06Encapsulamento\obj\Debug\net6.0\06Encapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel Vasconcelos\Desktop\PROJETOS\Estudo CU\06Encapsulamento\obj\Debug\net6.0\06Encapsulamento.dll
+C:\Users\Gabriel Vasconcelos\Desktop\PROJETOS\Estudo CU\06Encapsulamento\obj\Debug\net6.0\refint\06Encapsulamento.dll
+C:\Users\Gabriel Vasconcelos\Desktop\PROJETOS\Estudo CU\06Encapsulamento\obj\Debug\net6.0\06Encapsulamento.pdb
+C:\Users\Gabriel Vasconcelos\Desktop\PROJETOS\Estudo CU\06Encapsulamento\obj\Debug\net6.0\06Encapsulamento.genruntimeconfig.cache
+C:\Users\Gabriel Vasconcelos\Desktop\PROJETOS\Estudo CU\06Encapsulamento\obj\Debug\net6.0\ref\06Encapsulamento.dll

@@ -1,0 +1,15 @@
+C:\Users\Gabriel Vasconcelos\Desktop\PROJETOS\Estudo CU\04ExercicioImc\bin\Debug\net6.0\04ExercicioImc.exe
+C:\Users\Gabriel Vasconcelos\Desktop\PROJETOS\Estudo CU\04ExercicioImc\bin\Debug\net6.0\04ExercicioImc.deps.json
+C:\Users\Gabriel Vasconcelos\Desktop\PROJETOS\Estudo CU\04ExercicioImc\bin\Debug\net6.0\04ExercicioImc.runtimeconfig.json
+C:\Users\Gabriel Vasconcelos\Desktop\PROJETOS\Estudo CU\04ExercicioImc\bin\Debug\net6.0\04ExercicioImc.dll
+C:\Users\Gabriel Vasconcelos\Desktop\PROJETOS\Estudo CU\04ExercicioImc\bin\Debug\net6.0\04ExercicioImc.pdb
+C:\Users\Gabriel Vasconcelos\Desktop\PROJETOS\Estudo CU\04ExercicioImc\obj\Debug\net6.0\04ExercicioImc.csproj.AssemblyReference.cache
+C:\Users\Gabriel Vasconcelos\Desktop\PROJETOS\Estudo CU\04ExercicioImc\obj\Debug\net6.0\04ExercicioImc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel Vasconcelos\Desktop\PROJETOS\Estudo CU\04ExercicioImc\obj\Debug\net6.0\04ExercicioImc.AssemblyInfoInputs.cache
+C:\Users\Gabriel Vasconcelos\Desktop\PROJETOS\Estudo CU\04ExercicioImc\obj\Debug\net6.0\04ExercicioImc.AssemblyInfo.cs
+C:\Users\Gabriel Vasconcelos\Desktop\PROJETOS\Estudo CU\04ExercicioImc\obj\Debug\net6.0\04ExercicioImc.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel Vasconcelos\Desktop\PROJETOS\Estudo CU\04ExercicioImc\obj\Debug\net6.0\04ExercicioImc.dll
+C:\Users\Gabriel Vasconcelos\Desktop\PROJETOS\Estudo CU\04ExercicioImc\obj\Debug\net6.0\refint\04ExercicioImc.dll
+C:\Users\Gabriel Vasconcelos\Desktop\PROJETOS\Estudo CU\04ExercicioImc\obj\Debug\net6.0\04ExercicioImc.pdb
+C:\Users\Gabriel Vasconcelos\Desktop\PROJETOS\Estudo CU\04ExercicioImc\obj\Debug\net6.0\04ExercicioImc.genruntimeconfig.cache
+C:\Users\Gabriel Vasconcelos\Desktop\PROJETOS\Estudo CU\04ExercicioImc\obj\Debug\net6.0\ref\04ExercicioImc.dll

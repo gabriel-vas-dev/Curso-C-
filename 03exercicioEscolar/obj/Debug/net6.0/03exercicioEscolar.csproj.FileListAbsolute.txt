@@ -1,0 +1,15 @@
+C:\Users\Gabriel Vasconcelos\Desktop\PROJETOS\Estudo CU\03exercicioEscolar\bin\Debug\net6.0\03exercicioEscolar.exe
+C:\Users\Gabriel Vasconcelos\Desktop\PROJETOS\Estudo CU\03exercicioEscolar\bin\Debug\net6.0\03exercicioEscolar.deps.json
+C:\Users\Gabriel Vasconcelos\Desktop\PROJETOS\Estudo CU\03exercicioEscolar\bin\Debug\net6.0\03exercicioEscolar.runtimeconfig.json
+C:\Users\Gabriel Vasconcelos\Desktop\PROJETOS\Estudo CU\03exercicioEscolar\bin\Debug\net6.0\03exercicioEscolar.dll
+C:\Users\Gabriel Vasconcelos\Desktop\PROJETOS\Estudo CU\03exercicioEscolar\bin\Debug\net6.0\03exercicioEscolar.pdb
+C:\Users\Gabriel Vasconcelos\Desktop\PROJETOS\Estudo CU\03exercicioEscolar\obj\Debug\net6.0\03exercicioEscolar.csproj.AssemblyReference.cache
+C:\Users\Gabriel Vasconcelos\Desktop\PROJETOS\Estudo CU\03exercicioEscolar\obj\Debug\net6.0\03exercicioEscolar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel Vasconcelos\Desktop\PROJETOS\Estudo CU\03exercicioEscolar\obj\Debug\net6.0\03exercicioEscolar.AssemblyInfoInputs.cache
+C:\Users\Gabriel Vasconcelos\Desktop\PROJETOS\Estudo CU\03exercicioEscolar\obj\Debug\net6.0\03exercicioEscolar.AssemblyInfo.cs
+C:\Users\Gabriel Vasconcelos\Desktop\PROJETOS\Estudo CU\03exercicioEscolar\obj\Debug\net6.0\03exercicioEscolar.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel Vasconcelos\Desktop\PROJETOS\Estudo CU\03exercicioEscolar\obj\Debug\net6.0\03exercicioEscolar.dll
+C:\Users\Gabriel Vasconcelos\Desktop\PROJETOS\Estudo CU\03exercicioEscolar\obj\Debug\net6.0\refint\03exercicioEscolar.dll
+C:\Users\Gabriel Vasconcelos\Desktop\PROJETOS\Estudo CU\03exercicioEscolar\obj\Debug\net6.0\03exercicioEscolar.pdb
+C:\Users\Gabriel Vasconcelos\Desktop\PROJETOS\Estudo CU\03exercicioEscolar\obj\Debug\net6.0\03exercicioEscolar.genruntimeconfig.cache
+C:\Users\Gabriel Vasconcelos\Desktop\PROJETOS\Estudo CU\03exercicioEscolar\obj\Debug\net6.0\ref\03exercicioEscolar.dll

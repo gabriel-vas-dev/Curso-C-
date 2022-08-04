@@ -1,0 +1,15 @@
+C:\Users\Gabriel Vasconcelos\Desktop\PROJETOS\Estudo CU\08GetSet\bin\Debug\net6.0\08GetSet.exe
+C:\Users\Gabriel Vasconcelos\Desktop\PROJETOS\Estudo CU\08GetSet\bin\Debug\net6.0\08GetSet.deps.json
+C:\Users\Gabriel Vasconcelos\Desktop\PROJETOS\Estudo CU\08GetSet\bin\Debug\net6.0\08GetSet.runtimeconfig.json
+C:\Users\Gabriel Vasconcelos\Desktop\PROJETOS\Estudo CU\08GetSet\bin\Debug\net6.0\08GetSet.dll
+C:\Users\Gabriel Vasconcelos\Desktop\PROJETOS\Estudo CU\08GetSet\bin\Debug\net6.0\08GetSet.pdb
+C:\Users\Gabriel Vasconcelos\Desktop\PROJETOS\Estudo CU\08GetSet\obj\Debug\net6.0\08GetSet.csproj.AssemblyReference.cache
+C:\Users\Gabriel Vasconcelos\Desktop\PROJETOS\Estudo CU\08GetSet\obj\Debug\net6.0\08GetSet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel Vasconcelos\Desktop\PROJETOS\Estudo CU\08GetSet\obj\Debug\net6.0\08GetSet.AssemblyInfoInputs.cache
+C:\Users\Gabriel Vasconcelos\Desktop\PROJETOS\Estudo CU\08GetSet\obj\Debug\net6.0\08GetSet.AssemblyInfo.cs
+C:\Users\Gabriel Vasconcelos\Desktop\PROJETOS\Estudo CU\08GetSet\obj\Debug\net6.0\08GetSet.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel Vasconcelos\Desktop\PROJETOS\Estudo CU\08GetSet\obj\Debug\net6.0\08GetSet.dll
+C:\Users\Gabriel Vasconcelos\Desktop\PROJETOS\Estudo CU\08GetSet\obj\Debug\net6.0\refint\08GetSet.dll
+C:\Users\Gabriel Vasconcelos\Desktop\PROJETOS\Estudo CU\08GetSet\obj\Debug\net6.0\08GetSet.pdb
+C:\Users\Gabriel Vasconcelos\Desktop\PROJETOS\Estudo CU\08GetSet\obj\Debug\net6.0\08GetSet.genruntimeconfig.cache
+C:\Users\Gabriel Vasconcelos\Desktop\PROJETOS\Estudo CU\08GetSet\obj\Debug\net6.0\ref\08GetSet.dll

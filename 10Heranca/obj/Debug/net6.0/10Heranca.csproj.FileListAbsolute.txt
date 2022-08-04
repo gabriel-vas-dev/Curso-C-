@@ -1,0 +1,15 @@
+C:\Users\Gabriel Vasconcelos\Desktop\PROJETOS\Estudo CU\10Heranca\bin\Debug\net6.0\10Heranca.exe
+C:\Users\Gabriel Vasconcelos\Desktop\PROJETOS\Estudo CU\10Heranca\bin\Debug\net6.0\10Heranca.deps.json
+C:\Users\Gabriel Vasconcelos\Desktop\PROJETOS\Estudo CU\10Heranca\bin\Debug\net6.0\10Heranca.runtimeconfig.json
+C:\Users\Gabriel Vasconcelos\Desktop\PROJETOS\Estudo CU\10Heranca\bin\Debug\net6.0\10Heranca.dll
+C:\Users\Gabriel Vasconcelos\Desktop\PROJETOS\Estudo CU\10Heranca\bin\Debug\net6.0\10Heranca.pdb
+C:\Users\Gabriel Vasconcelos\Desktop\PROJETOS\Estudo CU\10Heranca\obj\Debug\net6.0\10Heranca.csproj.AssemblyReference.cache
+C:\Users\Gabriel Vasconcelos\Desktop\PROJETOS\Estudo CU\10Heranca\obj\Debug\net6.0\10Heranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel Vasconcelos\Desktop\PROJETOS\Estudo CU\10Heranca\obj\Debug\net6.0\10Heranca.AssemblyInfoInputs.cache
+C:\Users\Gabriel Vasconcelos\Desktop\PROJETOS\Estudo CU\10Heranca\obj\Debug\net6.0\10Heranca.AssemblyInfo.cs
+C:\Users\Gabriel Vasconcelos\Desktop\PROJETOS\Estudo CU\10Heranca\obj\Debug\net6.0\10Heranca.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel Vasconcelos\Desktop\PROJETOS\Estudo CU\10Heranca\obj\Debug\net6.0\10Heranca.dll
+C:\Users\Gabriel Vasconcelos\Desktop\PROJETOS\Estudo CU\10Heranca\obj\Debug\net6.0\refint\10Heranca.dll
+C:\Users\Gabriel Vasconcelos\Desktop\PROJETOS\Estudo CU\10Heranca\obj\Debug\net6.0\10Heranca.pdb
+C:\Users\Gabriel Vasconcelos\Desktop\PROJETOS\Estudo CU\10Heranca\obj\Debug\net6.0\10Heranca.genruntimeconfig.cache
+C:\Users\Gabriel Vasconcelos\Desktop\PROJETOS\Estudo CU\10Heranca\obj\Debug\net6.0\ref\10Heranca.dll
