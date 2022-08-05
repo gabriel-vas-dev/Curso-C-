@@ -1,0 +1,15 @@
+C:\Users\gabri\Desktop\CU\Curso-C-\13Abstracao\bin\Debug\net6.0\13Abstracao.exe
+C:\Users\gabri\Desktop\CU\Curso-C-\13Abstracao\bin\Debug\net6.0\13Abstracao.deps.json
+C:\Users\gabri\Desktop\CU\Curso-C-\13Abstracao\bin\Debug\net6.0\13Abstracao.runtimeconfig.json
+C:\Users\gabri\Desktop\CU\Curso-C-\13Abstracao\bin\Debug\net6.0\13Abstracao.dll
+C:\Users\gabri\Desktop\CU\Curso-C-\13Abstracao\bin\Debug\net6.0\13Abstracao.pdb
+C:\Users\gabri\Desktop\CU\Curso-C-\13Abstracao\obj\Debug\net6.0\13Abstracao.csproj.AssemblyReference.cache
+C:\Users\gabri\Desktop\CU\Curso-C-\13Abstracao\obj\Debug\net6.0\13Abstracao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Desktop\CU\Curso-C-\13Abstracao\obj\Debug\net6.0\13Abstracao.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\CU\Curso-C-\13Abstracao\obj\Debug\net6.0\13Abstracao.AssemblyInfo.cs
+C:\Users\gabri\Desktop\CU\Curso-C-\13Abstracao\obj\Debug\net6.0\13Abstracao.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\CU\Curso-C-\13Abstracao\obj\Debug\net6.0\13Abstracao.dll
+C:\Users\gabri\Desktop\CU\Curso-C-\13Abstracao\obj\Debug\net6.0\refint\13Abstracao.dll
+C:\Users\gabri\Desktop\CU\Curso-C-\13Abstracao\obj\Debug\net6.0\13Abstracao.pdb
+C:\Users\gabri\Desktop\CU\Curso-C-\13Abstracao\obj\Debug\net6.0\13Abstracao.genruntimeconfig.cache
+C:\Users\gabri\Desktop\CU\Curso-C-\13Abstracao\obj\Debug\net6.0\ref\13Abstracao.dll
